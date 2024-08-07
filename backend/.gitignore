@@ -1,0 +1,7 @@
+# Folder to remove
+dataset/
+
+# venv
+venv/
+
+*.json
