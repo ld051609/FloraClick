@@ -4,4 +4,5 @@ dataset/
 # venv
 venv/
 
-*.json
+# JSON files
+kaggle.json
