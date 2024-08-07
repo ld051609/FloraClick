@@ -1,0 +1,61 @@
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# Expo
+.expo/
+.expo-shared/
+
+# Build directories
+build/
+android/build/
+android/app/build/
+ios/Pods/
+ios/build/
+ios/DerivedData/
+
+# CocoaPods
+Podfile.lock
+*.xcworkspace
+
+# Android Studio
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*.local
+
+# React Native
+*.gradle
+*.keystore
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.log
+
+# Misc
+*.DS_Store
+*.class
+*.db
+*.sqlite
+
+# VSCode settings
+.vscode/
+
+# JetBrains IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
